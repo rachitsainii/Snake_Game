@@ -10,3 +10,5 @@ These are some screeshots of the UI of the game.
 
 2. In Game :
 
+![img](Play.png)
+
