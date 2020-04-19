@@ -8,3 +8,5 @@ These are some screeshots of the UI of the game.
 ![img](Start.png)
 
 
+2. In Game :
+
